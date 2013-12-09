@@ -43,4 +43,5 @@ And if we then added 1, 5, and 7, it would look like this
 More Reading:
 
 http://en.wikipedia.org/wiki/Binary_search_tree
+
 http://deatheragetr.github.io/blog/2013/09/14/binary-search-trees/
