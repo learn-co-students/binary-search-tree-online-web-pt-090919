@@ -1,5 +1,4 @@
-require_relative 'spec_helper'
-require_relative 'binary_search_tree'
+require 'spec_helper'
 
 describe 'Binary Search Tree' do
 
