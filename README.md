@@ -1,6 +1,7 @@
 ---
 tags: binary search tree, data structures, cs
 languages: ruby
+  resources: 2
 ---
 
 When we need to represent sorted data, an array does not make a good data structure.
@@ -45,3 +46,6 @@ More Reading:
 http://en.wikipedia.org/wiki/Binary_search_tree
 
 http://deatheragetr.github.io/blog/2013/09/14/binary-search-trees/
+## Resources
+* [Rails et al](http://deatheragetr.github.io/) - [Binary Search Trees in Ruby](http://deatheragetr.github.io/blog/2013/09/14/binary-search-trees/)
+* [Wikipedia](http://en.wikipedia.org/) - [Binary search tree](http://en.wikipedia.org/wiki/Binary_search_tree)
