@@ -41,11 +41,8 @@ And if we then added 1, 5, and 7, it would look like this
      / \     / \
     1   3   5   7
 
-More Reading:
+More reading:
 
-http://en.wikipedia.org/wiki/Binary_search_tree
-
-http://deatheragetr.github.io/blog/2013/09/14/binary-search-trees/
 ## Resources
 * [Rails et al](http://deatheragetr.github.io/) - [Binary Search Trees in Ruby](http://deatheragetr.github.io/blog/2013/09/14/binary-search-trees/)
 * [Wikipedia](http://en.wikipedia.org/) - [Binary search tree](http://en.wikipedia.org/wiki/Binary_search_tree)
