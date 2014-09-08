@@ -1,5 +1,5 @@
 ---
-  tags: binary search tree, data structures
+  tags: binary search tree, data structures, cs
   languages: ruby
   resources: 2
 ---
