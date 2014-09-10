@@ -4,6 +4,8 @@
   resources: 2
 ---
 
+## Binary Search Trees
+
 When we need to represent sorted data, an array does not make a good data structure.
 
 Say we have the array `[1, 3, 4, 5]`, and we add 2 to it so it becomes `[1, 3, 4, 5, 2]` now we must sort the entire array again! We can improve on this by realizing that we only need to make space for the new item `[1, nil, 3, 4, 5]`, and then adding the item in the space we added. But this still requires us to shift many elements down by one.
