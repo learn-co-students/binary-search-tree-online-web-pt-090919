@@ -1,6 +1,3 @@
-require_relative 'spec_helper'
-require_relative 'binary_search_tree'
-
 describe 'Binary Search Tree' do
 
   it 'retains data' do
