@@ -1,5 +1,3 @@
-require 'spec_helper'
-
 describe 'Binary Search Tree' do
 
   it 'retains data' do
