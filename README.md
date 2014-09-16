@@ -1,7 +1,10 @@
 ---
-tags: binary search tree, data structures, cs
-languages: ruby
+  tags: binary search tree, data structures, cs
+  languages: ruby
+  resources: 2
 ---
+
+## Binary Search Trees
 
 When we need to represent sorted data, an array does not make a good data structure.
 
@@ -40,8 +43,8 @@ And if we then added 1, 5, and 7, it would look like this
      / \     / \
     1   3   5   7
 
-More Reading:
+More reading:
 
-http://en.wikipedia.org/wiki/Binary_search_tree
-
-http://deatheragetr.github.io/blog/2013/09/14/binary-search-trees/
+## Resources
+* [Rails et al](http://deatheragetr.github.io/) - [Binary Search Trees in Ruby](http://deatheragetr.github.io/blog/2013/09/14/binary-search-trees/)
+* [Wikipedia](http://en.wikipedia.org/) - [Binary search tree](http://en.wikipedia.org/wiki/Binary_search_tree)
