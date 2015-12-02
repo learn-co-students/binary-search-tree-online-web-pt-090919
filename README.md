@@ -44,3 +44,5 @@ More reading:
 ## Resources
 * [Rails et al](http://deatheragetr.github.io/) - [Binary Search Trees in Ruby](http://deatheragetr.github.io/blog/2013/09/14/binary-search-trees/)
 * [Wikipedia](http://en.wikipedia.org/) - [Binary search tree](http://en.wikipedia.org/wiki/Binary_search_tree)
+
+<a href='https://learn.co/lessons/binary-search-tree' data-visibility='hidden'>View this lesson on Learn.co</a>
