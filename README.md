@@ -42,7 +42,6 @@ And if we then added 1, 5, and 7, it would look like this
 More reading:
 
 ## Resources
-* [Rails et al](http://deatheragetr.github.io/) - [Binary Search Trees in Ruby](http://deatheragetr.github.io/blog/2013/09/14/binary-search-trees/)
 * [Wikipedia](http://en.wikipedia.org/) - [Binary search tree](http://en.wikipedia.org/wiki/Binary_search_tree)
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/binary-search-tree' title='Binary Search Trees'>Binary Search Trees</a> on Learn.co and start learning to code for free.</p>
